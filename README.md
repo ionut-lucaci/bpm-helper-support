@@ -14,3 +14,6 @@ Email me at warp.one.bpm.helper@gmail.com
 
 # Privacy policy
 Idk what a privacy policy is but this app is so simple, it really collects no data from you whatsoever!
+
+# Curious about my music/mixes/livesets?
+Check out my soundcloud: https://soundcloud.com/start_rec
