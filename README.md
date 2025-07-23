@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/62f10ba0-9e06-4024-9ad9-ef788ef66c55" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/62f10ba0-9e06-4024-9ad9-ef788ef66c55" />
+
 # BPM Helper
 Play any gig in any old crusty venue!
 
